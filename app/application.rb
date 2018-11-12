@@ -1,9 +1,9 @@
 class Application
   
-  def response(new)
+  def call(env)
     
     
-    
+  resp.  
   end
   
 end
