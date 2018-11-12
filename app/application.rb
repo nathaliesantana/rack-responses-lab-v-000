@@ -3,7 +3,8 @@ class Application
   def call(env)
     
     
-  resp.  
+    
+  resp.finish  
   end
   
 end
